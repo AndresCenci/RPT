@@ -1,0 +1,4 @@
+mkdir directory1
+ls
+cd directory2
+quit

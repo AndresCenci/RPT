@@ -1,0 +1,7 @@
+mkdir directory1
+cd directory1
+touch file1
+ls
+cd ..
+ls
+quit

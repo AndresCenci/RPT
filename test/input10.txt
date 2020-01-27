@@ -1,0 +1,9 @@
+mkdir directory1
+cd directory1
+mkdir directory2
+cd directory2
+touch file1
+cd ..
+cd ..
+ls directory1/directory2
+quit
